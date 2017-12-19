@@ -10,6 +10,9 @@ public class git_cls {
 		System.out.println("first1 git");
 				System.out.println("first10 git");
 
+				System.out.println("first10 git");
+
+
 		// TODO Auto-generated method stub
 		
 
