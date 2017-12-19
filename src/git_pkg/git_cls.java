@@ -12,6 +12,9 @@ public class git_cls {
 
 				System.out.println("first10 git");
 				System.out.println("first11 git");
+				System.out.println("first10 git");
+				System.out.println("first12 git");
+
 
 
 
